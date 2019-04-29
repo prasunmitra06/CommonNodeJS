@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+  <test>complete</test>
+  <test>complete1</test>
+  <test>complete2</test>
+  <chieldnode for="node-js">
+    <ch1 type="ex1">Mitra Prasun</ch1>
+    <ch1 type="ex2">Prasun Mitra</ch1>
+    <ch1 type="ex3">Tamal Mitra</ch1>
+  </chieldnode>
+</root>

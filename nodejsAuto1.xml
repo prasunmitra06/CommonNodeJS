@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <chield for="node-js1">
+    <repo type="http">http://www.google.com</repo>
+  </chield>
+  <test>complete</test>
+  <test>complete1</test>
+  <test>complete2</test>
+  <chield for="node-js2">
+    <repo type="http">http://www.yahoo.com</repo>
+  </chield>
+</root>
